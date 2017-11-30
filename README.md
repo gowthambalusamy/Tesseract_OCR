@@ -1,4 +1,6 @@
-# Tesseract_OCR
+@Gowtham Balusamy
+
+tesseractOCR
 
 Test Image:
 
